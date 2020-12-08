@@ -1,0 +1,4 @@
+region: "ap-southeast-1"
+crmUserEndpoint: "https://stage-api-crm.hubsynch.com/2/user"
+crmCreateMemberEndpoint: "https://stage-api-crm.hubsynch.com/2/member"
+LOGIN_HISTORIES_TABLE: "Hubsynch-dev-login-histories"
